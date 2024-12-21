@@ -12,7 +12,6 @@ project_root <- Sys.getenv("PROJECT_ROOT")
 
 setwd(project_root)
 
-# Importa i dataset
 df <- read.csv("data/raw/adult_no_missing.csv")
 
 # Columns to male it factor
