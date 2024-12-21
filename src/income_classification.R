@@ -5,17 +5,15 @@ library(dplyr)
 library(ggplot2)
 library(tidyverse)
 library(VIM)
-dotenv::load_dot_env(".env")
-project_root <- Sys.getenv("PROJECT_ROOT")
 
 # Data Import ---------------------------------------
 
-setwd(project_root)
+setwd("C:/Users/keita/git/income_classification")
 
-df <- read.csv("data/raw/adult_no_missing.csv")
+df <- read.csv("data/raw/adult_before_boruta.csv")
 
 # Columns to male it factor
-cols_to_factor <- c("workclass", "education", "marital.status", "occupation", "relationship", "race", "sex", "native.country", "income")
+cols_to_factor <- c("workclass", "education.grouped", "marital.status", "occupation", "relationship", "race", "sex", "native.country.grouped", "income")
 
 # Factorize train dataset columns
 df[cols_to_factor] <- lapply(df[cols_to_factor], factor)

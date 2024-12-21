@@ -2981,7 +2981,7 @@ age,workclass,fnlwgt,education.num,marital.status,occupation,relationship,race,s
 22,Private,177107,11,Never-married,Prof-specialty,Unmarried,Black,Female,0,0,35,United States,Higher Education
 20,Private,266467,9,Married-civ-spouse,Craft-repair,Husband,White,Male,0,0,40,United States,High School
 49,Private,182752,10,Married-civ-spouse,Adm-clerical,Wife,White,Female,0,0,40,United States,Higher Education
-29,Private,238680,10,Never-married,Sales,Not-in-family,Black,Male,0,0,55,United States,Higher Education
+29,Private,238680,10,Never-married,Sales,Not-in-family,Black,Male,0,0,55,Oceania,Higher Education
 17,Private,132680,6,Never-married,Other-service,Own-child,White,Female,0,1602,10,United States,Middle
 49,Private,411273,6,Divorced,Machine-op-inspct,Not-in-family,Black,Male,0,0,40,United States,Middle
 17,Private,294485,6,Never-married,Other-service,Own-child,White,Male,0,0,30,United States,Middle
@@ -6373,7 +6373,7 @@ age,workclass,fnlwgt,education.num,marital.status,occupation,relationship,race,s
 42,Private,177989,9,Married-civ-spouse,Craft-repair,Husband,White,Male,0,0,40,United States,High School
 51,Federal-gov,314007,9,Divorced,Exec-managerial,Not-in-family,White,Female,0,0,40,United States,High School
 27,Local-gov,204098,9,Married-civ-spouse,Handlers-cleaners,Other-relative,White,Male,0,0,50,United States,High School
-59,State-gov,261584,13,Never-married,Exec-managerial,Not-in-family,Black,Female,0,0,40,United States,Higher Education
+59,State-gov,261584,13,Never-married,Exec-managerial,Not-in-family,Black,Female,0,0,40,Oceania,Higher Education
 51,Private,102828,11,Married-civ-spouse,Handlers-cleaners,Husband,White,Male,0,0,40,Europe,Higher Education
 44,Local-gov,124924,11,Never-married,Craft-repair,Not-in-family,White,Male,0,0,44,United States,Higher Education
 26,State-gov,109193,10,Never-married,Craft-repair,Not-in-family,White,Female,0,0,40,United States,Higher Education
@@ -8368,7 +8368,7 @@ age,workclass,fnlwgt,education.num,marital.status,occupation,relationship,race,s
 52,Private,114062,9,Divorced,Craft-repair,Unmarried,White,Female,0,0,40,United States,High School
 50,Self-emp-not-inc,371305,9,Married-civ-spouse,Sales,Husband,White,Male,0,1902,60,United States,High School
 30,Federal-gov,43953,12,Never-married,Prof-specialty,Not-in-family,White,Female,0,0,40,United States,Higher Education
-25,Private,218136,10,Never-married,Handlers-cleaners,Not-in-family,Black,Male,0,0,40,United States,Higher Education
+25,Private,218136,10,Never-married,Handlers-cleaners,Not-in-family,Black,Male,0,0,40,Oceania,Higher Education
 20,Private,107658,10,Never-married,Tech-support,Not-in-family,White,Female,0,0,10,United States,Higher Education
 43,Private,33331,13,Married-civ-spouse,Sales,Husband,White,Male,0,0,55,United States,Higher Education
 40,Private,70645,1,Never-married,Other-service,Not-in-family,White,Female,0,0,20,United States,Primary
@@ -8616,7 +8616,7 @@ age,workclass,fnlwgt,education.num,marital.status,occupation,relationship,race,s
 20,Private,215247,10,Never-married,Adm-clerical,Own-child,White,Female,0,0,20,United States,Higher Education
 36,Private,137314,11,Never-married,Tech-support,Not-in-family,White,Male,0,0,45,United States,Higher Education
 39,Self-emp-inc,167482,12,Married-civ-spouse,Exec-managerial,Husband,White,Male,0,0,50,United States,Higher Education
-26,Self-emp-not-inc,200681,9,Married-civ-spouse,Exec-managerial,Husband,White,Male,0,0,40,United States,High School
+26,Self-emp-not-inc,200681,9,Married-civ-spouse,Exec-managerial,Husband,White,Male,0,0,40,Oceania,High School
 60,Private,225883,10,Widowed,Sales,Unmarried,White,Female,0,0,27,United States,Higher Education
 20,Private,528616,3,Never-married,Other-service,Other-relative,White,Male,0,0,40,Mexico,Primary
 27,Private,179915,13,Never-married,Exec-managerial,Own-child,White,Female,0,0,99,United States,Higher Education
@@ -10807,7 +10807,7 @@ age,workclass,fnlwgt,education.num,marital.status,occupation,relationship,race,s
 30,Private,174704,7,Married-civ-spouse,Machine-op-inspct,Husband,Black,Male,0,0,40,United States,Middle
 42,Private,184682,11,Divorced,Tech-support,Not-in-family,White,Female,0,0,30,United States,Higher Education
 18,Private,98667,7,Never-married,Other-service,Own-child,White,Female,0,0,16,United States,Middle
-30,Private,66194,13,Never-married,Prof-specialty,Not-in-family,White,Female,0,0,60,United States,Higher Education
+30,Private,66194,13,Never-married,Prof-specialty,Not-in-family,White,Female,0,0,60,Oceania,Higher Education
 30,Private,103649,13,Married-civ-spouse,Adm-clerical,Wife,Black,Female,0,0,40,United States,Higher Education
 28,Private,198258,11,Married-civ-spouse,Sales,Husband,White,Male,0,0,40,United States,Higher Education
 35,Private,287658,10,Never-married,Adm-clerical,Unmarried,Black,Male,0,0,40,United States,Higher Education
@@ -10879,7 +10879,7 @@ age,workclass,fnlwgt,education.num,marital.status,occupation,relationship,race,s
 19,State-gov,67217,10,Never-married,Other-service,Not-in-family,White,Male,594,0,24,United States,Higher Education
 31,Private,184306,11,Never-married,Transport-moving,Own-child,White,Male,0,1980,60,United States,Higher Education
 34,Private,213722,9,Never-married,Handlers-cleaners,Own-child,White,Male,0,0,40,United States,High School
-41,Private,172828,5,Married-civ-spouse,Other-service,Husband,White,Male,0,0,55,United States,Middle
+41,Private,172828,5,Married-civ-spouse,Other-service,Husband,White,Male,0,0,55,Oceania,Middle
 28,Private,354095,10,Never-married,Sales,Not-in-family,White,Female,0,0,40,United States,Higher Education
 35,Private,138992,14,Married-civ-spouse,Prof-specialty,Other-relative,White,Male,7298,0,40,United States,Postgraduate
 18,Private,219841,7,Never-married,Handlers-cleaners,Own-child,White,Male,0,0,12,United States,Middle
@@ -12289,7 +12289,7 @@ age,workclass,fnlwgt,education.num,marital.status,occupation,relationship,race,s
 17,Private,191260,7,Never-married,Other-service,Own-child,White,Male,594,0,10,United States,Middle
 41,Federal-gov,355918,9,Married-civ-spouse,Tech-support,Husband,White,Male,0,0,40,United States,High School
 30,Private,152453,7,Married-civ-spouse,Other-service,Husband,White,Male,0,0,40,Mexico,Middle
-59,Private,261816,10,Divorced,Exec-managerial,Not-in-family,White,Female,0,0,52,United States,Higher Education
+59,Private,261816,10,Divorced,Exec-managerial,Not-in-family,White,Female,0,0,52,Oceania,Higher Education
 47,Private,168337,9,Married-civ-spouse,Machine-op-inspct,Husband,White,Male,0,0,48,United States,High School
 53,Local-gov,216931,10,Married-civ-spouse,Protective-serv,Husband,White,Male,4386,0,40,United States,Higher Education
 71,Private,99894,3,Widowed,Priv-house-serv,Not-in-family,Asian-Pac-Islander,Female,0,0,75,United States,Primary
@@ -13388,7 +13388,7 @@ age,workclass,fnlwgt,education.num,marital.status,occupation,relationship,race,s
 58,Private,250206,6,Married-civ-spouse,Craft-repair,Husband,White,Male,5178,0,40,United States,Middle
 48,Private,147860,9,Married-civ-spouse,Handlers-cleaners,Wife,Black,Female,0,0,40,United States,High School
 28,Private,250135,9,Never-married,Prof-specialty,Other-relative,White,Female,0,0,40,United States,High School
-29,Private,412435,9,Married-civ-spouse,Exec-managerial,Wife,White,Female,0,0,40,United States,High School
+29,Private,412435,9,Married-civ-spouse,Exec-managerial,Wife,White,Female,0,0,40,Oceania,High School
 28,Local-gov,202558,10,Never-married,Exec-managerial,Own-child,White,Female,0,0,40,United States,Higher Education
 54,Self-emp-not-inc,58898,10,Married-civ-spouse,Craft-repair,Husband,White,Male,0,1579,48,United States,Higher Education
 34,Private,37210,9,Never-married,Adm-clerical,Own-child,White,Male,0,0,50,United States,High School
@@ -14078,7 +14078,7 @@ age,workclass,fnlwgt,education.num,marital.status,occupation,relationship,race,s
 30,State-gov,199539,9,Married-civ-spouse,Adm-clerical,Husband,White,Male,0,1902,40,United States,High School
 47,Self-emp-inc,173783,13,Married-civ-spouse,Sales,Husband,White,Male,15024,0,60,United States,Higher Education
 58,Self-emp-not-inc,204021,9,Widowed,Exec-managerial,Not-in-family,White,Male,0,0,50,United States,High School
-43,Private,96421,13,Divorced,Prof-specialty,Unmarried,White,Female,0,0,24,United States,Higher Education
+43,Private,96421,13,Divorced,Prof-specialty,Unmarried,White,Female,0,0,24,Oceania,Higher Education
 32,Private,36467,12,Married-civ-spouse,Adm-clerical,Husband,White,Male,0,0,45,United States,Higher Education
 51,Private,154949,9,Widowed,Machine-op-inspct,Not-in-family,Black,Female,0,0,40,United States,High School
 37,Local-gov,212005,11,Married-civ-spouse,Exec-managerial,Husband,White,Male,0,0,40,United States,Higher Education
@@ -14485,7 +14485,7 @@ age,workclass,fnlwgt,education.num,marital.status,occupation,relationship,race,s
 23,Private,196674,10,Separated,Craft-repair,Not-in-family,White,Male,0,0,40,United States,Higher Education
 32,Private,114288,9,Divorced,Prof-specialty,Own-child,White,Female,0,0,40,United States,High School
 63,Federal-gov,154675,9,Widowed,Exec-managerial,Not-in-family,White,Female,0,0,40,United States,High School
-23,Private,217961,9,Never-married,Craft-repair,Unmarried,White,Male,0,0,45,United States,High School
+23,Private,217961,9,Never-married,Craft-repair,Unmarried,White,Male,0,0,45,Oceania,High School
 34,Private,72793,13,Never-married,Other-service,Not-in-family,White,Female,0,0,15,United States,Higher Education
 29,Private,285290,7,Never-married,Other-service,Unmarried,Black,Female,0,0,40,United States,Middle
 35,Private,45607,10,Never-married,Other-service,Not-in-family,White,Male,0,0,40,United States,Higher Education
@@ -17121,7 +17121,7 @@ age,workclass,fnlwgt,education.num,marital.status,occupation,relationship,race,s
 19,Private,430471,7,Never-married,Handlers-cleaners,Own-child,White,Male,0,0,40,United States,Middle
 39,Private,347434,5,Married-civ-spouse,Handlers-cleaners,Husband,White,Male,0,0,43,Mexico,Middle
 26,Private,187577,11,Never-married,Sales,Not-in-family,White,Male,0,0,55,United States,Higher Education
-47,Private,111797,10,Never-married,Other-service,Not-in-family,Black,Female,0,0,35,United States,Higher Education
+47,Private,111797,10,Never-married,Other-service,Not-in-family,Black,Female,0,0,35,Oceania,Higher Education
 62,Private,69867,11,Married-civ-spouse,Prof-specialty,Husband,White,Male,7298,0,50,United States,Higher Education
 27,Private,130067,10,Never-married,Exec-managerial,Not-in-family,White,Female,0,0,65,United States,Higher Education
 48,Private,28497,9,Married-civ-spouse,Craft-repair,Husband,White,Male,0,0,40,United States,High School
@@ -18731,7 +18731,7 @@ age,workclass,fnlwgt,education.num,marital.status,occupation,relationship,race,s
 24,Private,168997,10,Married-civ-spouse,Craft-repair,Husband,White,Male,0,0,40,United States,Higher Education
 27,Private,176761,9,Never-married,Craft-repair,Other-relative,Other,Male,0,0,40,SudAmerica,High School
 19,State-gov,127085,10,Never-married,Other-service,Own-child,White,Male,0,0,10,United States,Higher Education
-47,Private,179955,10,Widowed,Transport-moving,Unmarried,White,Female,0,0,25,United States,Higher Education
+47,Private,179955,10,Widowed,Transport-moving,Unmarried,White,Female,0,0,25,Oceania,Higher Education
 26,Private,136951,9,Separated,Machine-op-inspct,Unmarried,Black,Female,0,0,40,United States,High School
 36,Private,119957,13,Separated,Other-service,Unmarried,Black,Female,0,0,35,United States,Higher Education
 30,Private,100734,13,Married-civ-spouse,Prof-specialty,Wife,White,Female,0,0,38,United States,Higher Education
@@ -23307,7 +23307,7 @@ age,workclass,fnlwgt,education.num,marital.status,occupation,relationship,race,s
 34,Private,204461,13,Married-civ-spouse,Prof-specialty,Husband,White,Male,0,0,55,United States,Higher Education
 29,Private,261725,13,Never-married,Adm-clerical,Not-in-family,White,Female,0,0,35,United States,Higher Education
 51,Private,82783,9,Married-civ-spouse,Craft-repair,Husband,White,Male,0,0,40,United States,High School
-21,Private,255685,10,Never-married,Other-service,Own-child,Black,Male,0,0,40,United States,Higher Education
+21,Private,255685,10,Never-married,Other-service,Own-child,Black,Male,0,0,40,Oceania,Higher Education
 19,Private,307496,10,Never-married,Other-service,Own-child,White,Female,0,0,16,United States,Higher Education
 50,Federal-gov,339905,10,Married-civ-spouse,Exec-managerial,Husband,White,Male,0,0,40,United States,Higher Education
 49,Private,203067,10,Married-civ-spouse,Prof-specialty,Husband,White,Male,0,0,40,United States,Higher Education
@@ -23534,7 +23534,7 @@ age,workclass,fnlwgt,education.num,marital.status,occupation,relationship,race,s
 33,Private,284531,13,Never-married,Sales,Not-in-family,White,Female,0,0,40,United States,Higher Education
 56,Federal-gov,196307,16,Married-civ-spouse,Prof-specialty,Husband,White,Male,0,0,40,United States,Postgraduate
 33,Private,312055,13,Never-married,Exec-managerial,Not-in-family,White,Male,0,0,40,United States,Higher Education
-63,Local-gov,168656,13,Divorced,Craft-repair,Not-in-family,Black,Male,0,0,35,United States,Higher Education
+63,Local-gov,168656,13,Divorced,Craft-repair,Not-in-family,Black,Male,0,0,35,Oceania,Higher Education
 22,State-gov,178818,10,Never-married,Prof-specialty,Own-child,White,Female,0,0,20,United States,Higher Education
 18,Self-emp-not-inc,40293,9,Never-married,Farming-fishing,Other-relative,White,Male,0,0,40,United States,High School
 55,State-gov,200497,14,Married-civ-spouse,Exec-managerial,Husband,White,Male,0,0,45,United States,Postgraduate
