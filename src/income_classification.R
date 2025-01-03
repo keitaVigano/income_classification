@@ -10,10 +10,10 @@ library(VIM)
 
 setwd("C:/Users/keita/git/income_classification")
 
-df <- read.csv("data/raw/adult_before_boruta.csv")
+df <- read.csv("data/raw/adult_before_boruta_KNIME.csv")
 
 # Columns to male it factor
-cols_to_factor <- c("workclass", "education.grouped", "marital.status", "occupation", "relationship", "race", "sex", "native.country.grouped", "income")
+cols_to_factor <- c("workclass", "education", "marital.status", "occupation", "relationship", "race", "sex", "native.country", "income")
 
 # Factorize train dataset columns
 df[cols_to_factor] <- lapply(df[cols_to_factor], factor)
